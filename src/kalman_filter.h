@@ -1,6 +1,11 @@
 #ifndef KALMAN_FILTER_H_
 #define KALMAN_FILTER_H_
 #include "Eigen/Dense"
+#include <iostream>;
+using namespace std;
+using std::cout;
+using std::endl;
+
 
 class KalmanFilter {
 public:
