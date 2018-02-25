@@ -2,5 +2,5 @@
 
 ---
 
-Using Kalman Filter to Locate a Kidnapped Car
+Using Kalman Filter for Localization
 
